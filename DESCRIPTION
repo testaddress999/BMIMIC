@@ -1,0 +1,10 @@
+Package: BMIMIC
+Type: Package
+Title: BMIMIC
+Version: 0.1.0
+Author: Sooyong Lee
+Maintainer: Sooyong Lee <sooyongl09@utexas.edu>
+Description: Bayesian MIMIC
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.0
